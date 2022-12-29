@@ -23,7 +23,7 @@ or visit [blog](../blog) section
 
 - [npm](https://www.npmjs.com) : npm is the package manager for Node.js. It was created in 2009 as an open source project to help JavaScript developers easily share packaged modules of code
 
-- [Python](www.python.org) : Whether you're new to programming or an experienced developer, it's easy to learn and use Python
+- [Python](https://www.python.org) : Whether you're new to programming or an experienced developer, it's easy to learn and use Python
 
 - [figma](https://www.figma.com) : For wireframing, designing high fedility mockups and prototyping web and mobile applications
 
