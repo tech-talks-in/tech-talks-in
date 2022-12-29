@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Introduction
+# Docusaurus Introduction
  Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive. It provides out-of-the-box documentation features but can be used to create any kind of site (personal website, product, blog, marketing landing pages, etc). Checkout some sites build with [docusaurus](https://docusaurus.io/showcase?tags=favorite) for some inspiration. Did you know? this site is build with docusaurus too.
 
 Let's discover **Docusaurus in less than 5 minutes**.
