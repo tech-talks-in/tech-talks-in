@@ -1,0 +1,8 @@
+{
+  "label": "Docusaurus Complete Tutorial",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Detailed guide to learn the most important Docusaurus concepts. Taken from official documentation (https://docusaurus.io/docs/category/getting-started) "
+  }
+}
