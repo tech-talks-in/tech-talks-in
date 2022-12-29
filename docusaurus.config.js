@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'tech-talks',
   tagline: 'Tech news, tips, and insights for the modern world',
-  url: 'https://tech-talks-in.github.io/',
+  url: 'https://www.tech-talks-in/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
