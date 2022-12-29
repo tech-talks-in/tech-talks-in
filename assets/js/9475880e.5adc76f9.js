@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_talks_in=self.webpackChunktech_talks_in||[]).push([[1151],{1426:t=>{t.exports=JSON.parse('{"label":"authentication","permalink":"/blog/tags/authentication","allTagsPath":"/blog/tags","count":1}')}}]);
