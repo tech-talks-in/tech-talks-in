@@ -18,14 +18,14 @@ Wondering how the live coding is implemented on [Playground blog](../blog/live-c
 
 ``` jsx live
 function LiveCode(props) {
-    const [counter, setCounter] = useState(0);
+    const [count, setCount] = useState(0);
 
     return (
         <div>
         <h1>{count} </h1>
-        <button onClick={() => setCounter(counter + 1)}>Add</button>
+        <button onClick={() => setCount(count + 1)}>Add</button>
         <span> </span>
-        <button onClick={() => setCounter(counter - 1)}>Sub</button>
+        <button onClick={() => setCount(count - 1)}>Sub</button>
         </div>
     )
 }
