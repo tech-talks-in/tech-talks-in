@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>tech-talks Blog</title>
-        <link>https://tech-talks-in.github.io/blog</link>
+        <link>https://tech-talks-in/blog</link>
         <description>tech-talks Blog</description>
         <lastBuildDate>Thu, 29 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Playground - Live Coding]]></title>
-            <link>https://tech-talks-in.github.io/blog/live-coding-demo</link>
+            <link>https://tech-talks-in/blog/live-coding-demo</link>
             <guid>live-coding-demo</guid>
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[playground - live coding in docusaurus]]></description>
@@ -60,7 +60,7 @@
         </item>
         <item>
             <title><![CDATA[Public API's Listing]]></title>
-            <link>https://tech-talks-in.github.io/blog/public-api-listing</link>
+            <link>https://tech-talks-in/blog/public-api-listing</link>
             <guid>public-api-listing</guid>
             <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Collection of Open API's to work during development of any of your app ideas, includes free, paid and freemium based services that can be integrated with any application checkout thier websites for getting your own apikey, pricing information and documentations.]]></description>
@@ -70,7 +70,7 @@
         </item>
         <item>
             <title><![CDATA[GitHub Multiple Accounts]]></title>
-            <link>https://tech-talks-in.github.io/blog/github-multiple-accounts</link>
+            <link>https://tech-talks-in/blog/github-multiple-accounts</link>
             <guid>github-multiple-accounts</guid>
             <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[To use two GitHub accounts on a Mac over ssh, you will need to set up separate ssh keys for each account.]]></description>
@@ -80,7 +80,7 @@
         </item>
         <item>
             <title><![CDATA[JWT]]></title>
-            <link>https://tech-talks-in.github.io/blog/json-web-tokens</link>
+            <link>https://tech-talks-in/blog/json-web-tokens</link>
             <guid>json-web-tokens</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[You might have heard about JWT if you are in field of developing applications or not from other domains. JSON Web Token (JWT) is a standard for representing claims securely between two parties. It is typically used to securely transmit information between a server and a client, such as an API and a single-page application. JWTs are a useful tool for securely transmitting information between parties, and are commonly used in modern web applications for authentication and authorization]]></description>
@@ -106,7 +106,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4
         </item>
         <item>
             <title><![CDATA[MDX Sample]]></title>
-            <link>https://tech-talks-in.github.io/blog/mdx-sample-post</link>
+            <link>https://tech-talks-in/blog/mdx-sample-post</link>
             <guid>mdx-sample-post</guid>
             <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Simple mdx sample code Docusaurus Markdown features, such as MDX.]]></description>
