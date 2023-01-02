@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://www.tech-talks.in/</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/intro</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/category/node-js</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/live-coding-demo</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/category/docusaurus-complete-tutorial</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/public-api-listing</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/live-coding-demo</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/github-multiple-accounts</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/json-web-tokens</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/mdx-sample-post</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/api</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/development</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/github</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/ssh</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/jwt</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/jsonwebtokens</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/node</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/authentication</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/authorization</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags/docusaurus</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/nodeJS/node-express-app</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/nodeJS/docusaurus</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/create-a-page</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/create-a-document</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/create-a-blog-post</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/markdown-features</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/deploy-your-site</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/manage-docs-versions</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/translate-your-site</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tutorial-docusaurus/congratulations</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/blog/tags</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tags/hello</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tags/docusaurus</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.tech-talks.in/docs/tags</loc>
+  <lastmod>2022-12-30T09:39:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

@@ -4,19 +4,19 @@ sidebar_position: 1
 
 # Getting Started
 
-<!-- Let's discover **Docusaurus in less than 5 minutes**. -->
-
 ![tech-talks chat image](/img/my-site-logo.svg)
 
 Get started by **visiting articles in the next sections on the side bar**.
 
 or visit [blog](../blog) section
 
-<!-- Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**. -->
-
 ### Basic tools to get going
 
 - [ChatGPT](https://openai.com/blog/chatgpt/) : all you need is a chat away, ai model by [openai](https://openai.com) called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests
+
+- [jsfiddle](https://jsfiddle.net) : test your javascript code in the browser
+
+- [Glitch](https://glitch.com) : Millions of people use Glitch to express themselves, try new things, and help others learn. We’re fun and easy, so you spend less time setting up and more time exploring, experimenting, making mistakes and growing
 
 - [Node.js](https://nodejs.org/en/download/) : install version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
