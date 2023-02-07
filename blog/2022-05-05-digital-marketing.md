@@ -14,23 +14,30 @@ Digital marketing refers to the use of digital channels and technologies to prom
 This blog article gives you digital marketing 101 on basic concepts, types and terminologies used in the digital marketing domain along with tips to get you started. 
 
 **Continue reading for details on**
+
 I. What is digital marketing
+
 II. Search engine optimization (SEO)
   - What is SEO
   - Why is SEO important
   - Tips for improving SEO
+
 III. Social media marketing
   - The role of social media in digital marketing
   - Tips for creating effective social media campaigns
+
 IV. Email marketing
   - What is email marketing
   - Tips for creating effective email campaigns
+
 V. Online advertising
   - Types of online advertising
   - Tips for creating effective online advertising campaigns
+
 VI. Conclusion
   - Recap of the importance of digital marketing
   - Tips for getting started with digital marketing
+
 VII. Additional resources
   - Links to additional information on digital marketing strategies and tactics
 
@@ -102,6 +109,7 @@ There are several types of online advertising, including:
 - Measuring the success of the campaign using analytics tools and metrics such as click-through rate (CTR), cost-per-click (CPC), and conversion rate
 
 ### Recap
+
 Digital marketing is an essential tool for businesses looking to reach a wider audience, build brand awareness, and drive sales.
 
 Below are some key points for An effective digital marketing strategy
