@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_talks_in=self.webpackChunktech_talks_in||[]).push([[1756],{1018:a=>{a.exports=JSON.parse('{"label":"DataManagementPlatform","permalink":"/blog/tags/data-management-platform","allTagsPath":"/blog/tags","count":1}')}}]);

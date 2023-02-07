@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_talks_in=self.webpackChunktech_talks_in||[]).push([[2891],{3479:s=>{s.exports=JSON.parse('{"label":"Business growth","permalink":"/blog/tags/business-growth","allTagsPath":"/blog/tags","count":1}')}}]);

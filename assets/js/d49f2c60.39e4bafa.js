@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_talks_in=self.webpackChunktech_talks_in||[]).push([[5710],{3896:e=>{e.exports=JSON.parse('{"label":"Marketing strategies","permalink":"/blog/tags/marketing-strategies","allTagsPath":"/blog/tags","count":1}')}}]);

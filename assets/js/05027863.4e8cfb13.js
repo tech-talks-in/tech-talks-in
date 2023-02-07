@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_talks_in=self.webpackChunktech_talks_in||[]).push([[2425],{2810:a=>{a.exports=JSON.parse('{"label":"CDP","permalink":"/blog/tags/cdp","allTagsPath":"/blog/tags","count":1}')}}]);
