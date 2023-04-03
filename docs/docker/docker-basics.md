@@ -26,54 +26,60 @@ Docker provides 2 sets of installers
 We will go though ubuntu but these steps will work in any system running debain. On the docker official site once can access instructions for other operating systems, feel free to [check them out at our leasure time](https://docs.docker.com/engine/install/). 
 
 ### 1. Installation 
-    There are multiple methods for successfully installing docker engine, one such method is handy convience script 
 
-    You can run the script with the --dry-run option to learn what steps the script will run when invoked:
-    ```
-    curl -fsSL https://get.docker.com -o get-docker.sh
-    sudo sh ./get-docker.sh --dry-run
-    ```
-    :::tip My tip
+There are multiple methods for successfully installing docker engine, one such method is handy convience script 
 
-    Avoid using in production deployments and go though respective package manager route. Well nothing wrong in using it with caution, read though dry-run otuput an dmake sure it is not doing any unwanted things. 
+You can run the script with the --dry-run option to learn what steps the script will run when invoked:
 
-    :::
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh ./get-docker.sh --dry-run
+```
 
-    To proceed with installation and install latest stable release
-    ```
-    curl -fsSL https://get.docker.com -o get-docker.sh
-    sudo sh get-docker.sh
-    Executing docker install script, commit: 7cae5f8b0decc17d6571f9f52eb840fbc13b2737
-    <...>
-    ```
+:::tip My tip
+
+Avoid using in production deployments and go though respective package manager route. Well nothing wrong in using it with caution, read though dry-run otuput an dmake sure it is not doing any unwanted things. 
+
+:::
+
+To proceed with installation and install latest stable release
+
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+Executing docker install script, commit: 7cae5f8b0decc17d6571f9f52eb840fbc13b2737
+<...>
+```
 
 
 ### 2. Downloading docker images
 
-    Visit [docker hub](https://hub.docker.com/) and explore the images, and look out for command on the top left for an image to download it to your machine. Docker images are tagged with versions or variations seperated by : i.e.,  image:version-tag and if only image name is used it will default to :latest
+Visit [docker hub](https://hub.docker.com/) and explore the images, and look out for command on the top left for an image to download it to your machine. Docker images are tagged with versions or variations seperated by : i.e.,  image:version-tag and if only image name is used it will default to :latest
 
-  For downlaoding mysql image 
+For downloading new mysql image 
 
-    ```
-      docker pull mysql
-    ```
-     or
-    ``` 
-      docker pull mysql:8.0
-      
-    ```
+```
+docker pull mysql
+```
 
-  Starting a MySQL instance:
+or
 
-    ```
-      docker run --name some-friendly-name -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:tag
-    ```
-    -d tells run the server as backgroud process, if you want to run in interactive mode remove it
+``` 
+docker pull mysql:8.0
+
+```
+
+Starting a MySQL instance:
+
+```
+  docker run --name some-friendly-name -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:tag
+```
+-d tells run the server as backgroud process, if you want to run in interactive mode remove it
 
 ### 3. Check running containers
 
-  Run the command 
-  ``` docker ps ``` or ```docker ps -a``` for viewing running containers. -a shows all containers that are  with status running as well as exited or other modes.
+Run the command 
+``` docker ps ``` or ```docker ps -a``` for viewing running containers. -a shows all containers that are  with status running as well as exited or other modes.
 
 ### 4. Dockerfile
 
@@ -81,6 +87,7 @@ Docker file is a document that holds set of instructions & commands a user perfo
 
 You can use any static html file you have and skip step 1.
 Step 1. Create a new folder and add a file called index.html and paste this code
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -95,11 +102,14 @@ Step 1. Create a new folder and add a file called index.html and paste this code
 </body>
 </html>
 ```
+
 Step 2. Create a file named ***Dockerfile*** in the same folder and add below commands
+
 ```
 FROM nginx:alpine
 COPY . /usr/share/nginx/html
 ```
+
 Make sure to name the file in exact sentence case ***Dockerfile*** . In future we will check on how to build container images using custom file names.
 Step 3. Build Image
 
