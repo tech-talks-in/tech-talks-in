@@ -5,6 +5,7 @@ authors: [pavan]
 description: perofrmance testing your application services
 tags: [performance, api, development]
 ---
+![load-testing.png](./images/load-testing.png)
 
 Performance & Load Testing your web services is crucial with APIs becoming more prevalent in usage and required through testing for handling adhoc and busrt loads thoughout the product lifecycle. [K6.io](https://k6.io) is one such tool from well known opensource team graphna labs that enables basic to advance testing sceraios for the developers to test their API's and identify any potential blockages across the service by writing tests in their well known scripting language 'javascript'. This blog article guides you to quickly setup and run the load test in literaly in 5 minutes. YES in 5, can't beleive jump write in
 
