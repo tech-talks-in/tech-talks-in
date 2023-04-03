@@ -81,11 +81,12 @@ Starting a MySQL instance:
 Run the command 
 ``` docker ps ``` or ```docker ps -a``` for viewing running containers. -a shows all containers that are  with status running as well as exited or other modes.
 
-### 4. Dockerfile
+### 4. Dockerfile & Creating and running custom images
 
-Docker file is a document that holds set of instructions & commands a user performs to assemble an image. It starts from base image that is refering to either public repository - dockerhub or private repositories where container images are stored. We are going to build a simple docker image that hosts an static html file using nginx server. In future topics we will cover more advanced dockerfile commands including multi-stage build and how to dockerise your existing applications. 
+Docker file is a document that holds set of instructions & commands a user performs to assemble an image. It starts from base image that is refering to either public repository - dockerhub or private repositories where container images are stored. We are going to build a simple docker image that hosts an static html file using nginx server. In future topics we will cover more advanced dockerfile commands including multi-stage builds and how to dockerise your existing applications. 
 
 You can use any static html file you have and skip step 1.
+
 Step 1. Create a new folder and add a file called index.html and paste this code
 
 ```
@@ -111,6 +112,7 @@ COPY . /usr/share/nginx/html
 ```
 
 Make sure to name the file in exact sentence case ***Dockerfile*** . In future we will check on how to build container images using custom file names.
+
 Step 3. Build Image
 
 ```
@@ -125,7 +127,7 @@ Step 4. Run the Image
 ```
 docker run -d -p 80:80 my-server:latest
 ```
-If port 80 is occupied on yuor machine, pls change to other ports like 8080
+If port 80 is occupied on your machine, pls change to other ports like 8080
 ```
 docker run -d -p 8080:80 my-server:latest
 ```
