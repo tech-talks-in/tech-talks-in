@@ -12,7 +12,7 @@ sidebar_position: 2
 
 # Docker Basics 102
 
-**Useful docker comamnds for anyones quick reference**
+**Useful docker commands for anyone's quick reference**
 
 1. Check active running containers
 
@@ -121,19 +121,19 @@ sidebar_position: 2
 
     ```
     {
-    "log-driver": "local | json-file",
-    "log-opts": {
-        "max-size": "10m",
-        "max-file": "3",
-        }
-    "live-restore": true,
-    "bip": "10.10.10.1/24",
-    "default-address-pools": [{
-        "base": "10.10.10.0/24",
-        "size": 100
-    }],
-    "dns": ["8.8.8.8"],
-    "dns-search": ["home.local"]
+        "log-driver": "local | json-file",
+        "log-opts": {
+            "max-size": "10m",
+            "max-file": "3",
+            }
+        "live-restore": true,
+        "bip": "10.10.10.1/24",
+        "default-address-pools": [{
+            "base": "10.10.10.0/24",
+            "size": 100
+        }],
+        "dns": ["8.8.8.8"],
+        "dns-search": ["home.local"]
     }
 
     ```
