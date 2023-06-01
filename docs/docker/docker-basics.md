@@ -1,7 +1,11 @@
 ---
 slug: docker-basics
 title: Docker Basics 101 
-authors: endi
+authors:
+  name: Pavan Kumar
+  title: tech-talks Core Team
+  url: https://github.com/mrpavan
+  image_url: https://github.com/mrpavan.png
 tags: [Docker]
 sidebar_position: 1
 ---
